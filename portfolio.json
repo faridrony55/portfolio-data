@@ -1,0 +1,389 @@
+[
+    { 
+        "id": "1",
+        "image": "/project/httpskoanga.store.png",
+        "title": "Shopify Bug Fixing",
+        "link": "https://koanga.store/",
+        "type": "Product Page"
+    },
+    { 
+        "id": "2",
+        "image":"/project/loadinglax.png",
+        "title": "PSD to Shopify",
+        "link": "https://loadinglax.com/",
+        "type": "Product Page"
+    },
+    { 
+        "id": "3",
+        "image": "/project/httpszep.ro.png",
+        "title": "Shopify Menu Customizasion",
+        "link": "https://zep.ro/",
+        "type": "Product Page"
+    },
+    { 
+        "id": "4",
+        "image": "/project/httpsloctote.com.png",
+        "title": "Full Store with Shogun Page Builder",
+        "link": "https://loctote.com/",
+        "type": "Product Page"
+    } ,
+    { 
+        "id": "5",
+        "image": "/project/httpshifirstday.com.png",
+        "title": "Shopify Store Design",
+        "link": "https://hifirstday.com/",
+        "type": "Product Page"
+    } ,
+    { 
+        "id": "6",
+        "image": "/project/hifirstday_landing_page.png",
+        "title": "Landing Page Design",
+        "link": "https://hifirstday.com/products/teens-kickstart-vitamin",
+        "type": "Product Page"
+    } ,
+    { 
+        "id": "7",
+        "image": "/project/loopearplugs.png",
+        "title": "Landing Page Design",
+        "link": "https://www.loopearplugs.com/pages/careers",
+        "type": "Product Page"
+    } ,
+    { 
+        "id": "8",
+        "image": "/project/thegeniusbrand_landing_page.png",
+        "title": "Landing Page Design",
+        "link": "https://thegeniusbrand.com/pages/the-genius-story",
+        "type": "Product Page"
+    } ,
+    { 
+        "id": "9",
+        "image": "/project/bakuchiolbotanicals.png",
+        "title": "Front Page Design",
+        "link": "https://bakuchiolbotanicals.com/",
+        "type": "Product Page"
+    }  ,
+    { 
+        "id": "10",
+        "image": "/project/heysilkyskin.png",
+        "title": "Product Page Design",
+        "link": "https://www.heysilkyskin.com/collections/bundle-save-most-popular/products/heysilkyskin-ipl-hair-removal-handset?variant=20008303886447",
+        "type": "Product Page"
+    }  ,
+    { 
+        "id": "11",
+        "image": "/project/lifetimeleather.png",
+        "title": "Shopify Store Customizasion",
+        "link": "https://lifetimeleather.com/",
+        "type": "Product Page"
+    } ,
+    { 
+        "id": "12",
+        "image": "/project/pannice.png",
+        "title": "Shopify Store Customizasion",
+        "link": "https://pan-n-ice.co.uk/",
+        "type": "Shopify Store"
+    } ,
+    { 
+        "id": "13",
+        "image": "/project/minimeis.png",
+        "title": "Shopify Store Design",
+        "link": "https://minimeis.com/",
+        "type": "Shopify Store"
+    } ,
+    { 
+        "id": "14",
+        "image": "/project/wearerasa.png",
+        "title": "Home Page Design",
+        "link": "https://wearerasa.com/",
+        "type": "Landing Page"
+    } ,
+    { 
+        "id": "15",
+        "image": "/project/huedrum.png",
+        "title": "Product Page Design",
+        "link": "https://huedrum.com/products/hue-drum",
+        "type": "Product Page"
+    } ,
+    { 
+        "id": "16",
+        "image": "/project/thegeniusbrand.png",
+        "title": "Product Page Design",
+        "link": "https://thegeniusbrand.com/products/genius-burn",
+        "type": "Product Page"
+    } ,
+    { 
+        "id": "17",
+        "image": "/project/lianasorganics.png",
+        "title": "Home Page Design",
+        "link": "https://lianasorganics.com/",
+        "type": "Landing Page"
+    },
+    { 
+        "id": "18",
+        "image": "/project/pixcare.png",
+        "title": "Shopify Store Customizasion",
+        "link": "https://pixcare.de/",
+        "type": "Product Page"
+    },
+    { 
+        "id": "19",
+        "image": "/project/photolamus.png",
+        "title": "Landing Page Design",
+        "link": "https://www.photolamus.com/",
+        "type": "Product Page"
+    },
+    {  
+        "id": "20",
+        "image": "/project/wooflinen.png",
+        "title": "Shopify Store Design",
+        "link": "https://wooflinen.com/",
+        "type": "Product Page"
+    },
+    { 
+        "id": "21",
+        "image": "/project/monshampoing.png",
+        "title": "Landing Page Design",
+        "link": "https://shop.monshampoing.com/",
+        "type": "Product Page"
+    },
+    { 
+        "id": "22",
+        "image": "/project/polyprintusa.png",
+        "title": "Product Page Design",
+        "link": "https://polyprintusa.com/collections/equipment/products/texjet-echo2",
+        "type": "Product Page"
+    },
+    { 
+        "id": "23",
+        "image": "/project/j80fitness.png",
+        "title": "Home  Page Design",
+        "link": "https://j80fitness.com/",
+        "type": "Product Page"
+    },
+    { 
+        "id": "24",
+        "image": "/project/boringcloth.png",
+        "title": "Landing Page Design",
+        "link": "https://boringcloth.com/pages/it-worth-it-food-truck",
+        "type": "Product Page"
+    },
+    { 
+        "id": "25",
+        "image": "/project/mryal.png",
+        "title": "Landing Page Design",
+        "link": "https://mryal.com/",
+        "type": "Product Page"
+    },
+    { 
+        "id": "26",
+        "image": "/project/toolboxwidget.png",
+        "title": "Shopify Store Development",
+        "link": "https://toolboxwidget.com/",
+        "type": "Product Page"
+    },
+    { 
+        "id": "27",
+        "image": "/project/noxux.png",
+        "title": "Landing Page Design",
+        "link": "https://noxux.com/",
+        "type": "Product Page"
+    },
+    { 
+        "id": "28",
+        "image": "/project/recolution.png",
+        "title": "Shopify Store Design",
+        "link": "https://www.recolution.de/",
+        "type": "Product Page"
+    }, 
+    { 
+        "id": "29",
+        "image": "/project/allin1gaming.png",
+        "title": "Bigcommerce Store Bug Fixing",
+        "link": "https://allin1gaming.com/",
+        "type": "Product Page"
+    }, 
+    { 
+        "id": "30",
+        "image": "/project/heycurls.png",
+        "title": "Shopify Store Development",
+        "link": "https://www.heycurls.com/",
+        "type": "Product Page"
+    }, 
+    { 
+        "id": "31",
+        "image": "/project/cooltrap.png",
+        "title": "Landing Page Design with Liquid Coding",
+        "link": "https://www.cooltrap.com/pages/cooltrap-corporate",
+        "type": "Product Page"
+    },  
+    { 
+        "id": "32",
+        "image": "/project/kofiti.png",
+        "title": "Menu Icon & Product Description",
+        "link": "https://www.kofiti.ro/",
+        "type": "Product Page"
+    },
+    { 
+        "id": "33",
+        "image": "/project/fisheandlilly.png",
+        "title": "Shopify Store Design",
+        "link": "https://fisheandlilly.com/",
+        "type": "Product Page"
+    },
+    { 
+        "id": "34",
+        "image": "/project/thebeautycloud.png",
+        "title": "Landing Page Design",
+        "link": "https://www.thebeautycloud.com/a/pf_preview?id=ea40b7b0-e9cd-401c-9aed-fccdc99a9d7d",
+        "type": "Product Page"
+    },
+    { 
+        "id": "35",
+        "image": "/project/theraknee.png",
+        "title": "Product Page Design",
+        "link": "https://theraknee-massager.myshopify.com/products/physiknee-massager",
+        "type": "Product Page"
+    },
+    { 
+        "id": "36",
+        "image": "/project/headeast.png",
+        "title": "Shopify Store Custom Coding",
+        "link": "https://head-east.co/",
+        "type": "Product Page"
+    },
+    { 
+        "id": "37",
+        "image": "/project/theultimatecatbundle.png",
+        "title": "Invisionapp  to Shogun Page Design",
+        "link": "https://shogun.page/previews/789316f7-63f9-43cb-9051-bb8a6a3587da/61a5a8146b7cc100ca7e54f6",
+        "type": "Product Page"
+    },
+    { 
+        "id": "38",
+        "image": "/project/tuftandpaw.png",
+        "title": "Shopify Page Design",
+        "link": "https://www.tuftandpaw.com/",
+        "type": "Product Page"
+    },
+    { 
+        "id": "39",
+        "image": "/project/nectarclothing.png",
+        "title": "Shopify Bug Fixing",
+        "link": "https://nectarclothing.com/",
+        "type": "Product Page"
+    },
+    { 
+        "id": "40",
+        "image": "/project/musicalteakettle.png",
+        "title": "Landing Page Design",
+        "link": "https://musicalteakettle.com/",
+        "type": "Product Page"
+    },
+    { 
+        "id": "41",
+        "image": "/project/zahn.png",
+        "title": "Landing Page Design",
+        "link": "https://zahn.co/a/pf_preview?id=add0dd88-22c2-4866-a45c-b94ab0dbe8f5",
+        "type": "Product Page"
+    },
+    { 
+        "id": "42",
+        "image": "/project/nevicaonline.png",
+        "title": "Dropshipping Shopify Store",
+        "link": "https://nevicaonline.com/",
+        "type": "Product Page"
+    },
+    { 
+        "id": "43",
+        "image": "/project/theponyjet.png",
+        "title": "Product Page Design",
+        "link": "https://theponyjet.com/products/jet",
+        "type": "Product Page"
+    },
+    { 
+        "id": "44",
+        "image": "/project/masi.png",
+        "title": "Shopify Store Design",
+        "link": "https://masi.ps/",
+        "type": "Product Page"
+    },
+    { 
+        "id": "45",
+        "image": "/project/jigsawofjoy.png",
+        "title": "Product Page Design",
+        "link": "https://jigsawofjoy.com/products/jigsaw-of-joy-custom-frame",
+        "type": "Product Page"
+    },
+    { 
+        "id": "46",
+        "image": "/project/belaireave.png",
+        "title": "Shopify Store Development",
+        "link": "https://belaireave.com/",
+        "type": "Product Page"
+    },
+    { 
+        "id": "47",
+        "image": "/project/discoverdawnwear.png",
+        "title": "Shopify Store Design",
+        "link": "https://discoverdawnwear.com/collections/accesories/products/wide-brim-cotton-summer-hat",
+        "type": "Product Page"
+    },
+    { 
+        "id": "48",
+        "image": "/project/buyroofpax.png",
+        "title": "Home Page Design",
+        "link": "https://buyroofpax.com/",
+        "type": "Product Page"
+    },
+    { 
+        "id": "49",
+        "image": "/project/wheelzfinance.png",
+        "title": "Landing Page Design in React",
+        "link": "https://jazzy-moonbeam-7c5da9.netlify.app/",
+        "type": "Product Page"
+    },
+    { 
+        "id": "50",
+        "image": "/project/parcilsafety.png",
+        "title": "Shopify Bug Fixing",
+        "link": "https://parcilsafety.com/",
+        "type": "Product Page"
+    },
+    
+    { 
+        "id": "51",
+        "image": "/project/tidehill.png",
+        "title": "Landing Page Design",
+        "link": "https://www.tidehill.com/pages/landingpage",
+        "type": "Product Page"
+    },
+    { 
+        "id": "52",
+        "image": "/project/beancraft.png",
+        "title": "Home Page Design",
+        "link": "https://beancraft.coffee/",
+        "type": "Product Page"
+    },
+    { 
+        "id": "53",
+        "image": "/project/fancythose.png",
+        "title": "Product Page Design",
+        "link": "https://fancythose.com/a/pf_preview?id=f65489b3-130c-401b-a7e9-166d7baa6bd4",
+        "type": "Product Page"
+    },
+    { 
+        "id": "54",
+        "image": "/project/pharamond.png",
+        "title": "Product Page Design",
+        "link": "https://pharamond.myshopify.com/pages/landing-page",
+        "type": "Product Page"
+    },
+    { 
+        "id": "55",
+        "image": "/project/buyroofpax_product.png",
+        "title": "Product Page Design",
+        "link": "https://buyroofpax.com/products/roofpax-car-roof-bag-rooftop-cargo",
+        "type": "Product Page"
+    }
+]
+  
